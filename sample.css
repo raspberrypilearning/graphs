@@ -1,1 +1,7 @@
+.sky>ellipse {
+    fill: deepskyblue;
+}
 
+.ground>ellipse {
+    fill: palegreen;
+}
